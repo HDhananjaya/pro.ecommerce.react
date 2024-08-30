@@ -1,7 +1,7 @@
-# Shopper - Modern E-Commerce Web Application
+# Modern E-Commerce Web Application
 
 ## Overview
-**Shopper** is a sleek and responsive e-commerce platform built with React. The application is designed to provide a user-friendly interface with smooth navigation and an aesthetically pleasing shopping experience. It features dynamic product listings, detailed product pages, a user account system, and an intuitive shopping cart.
+sleek and responsive e-commerce platform built with React. The application is designed to provide a user-friendly interface with smooth navigation and an aesthetically pleasing shopping experience. It features dynamic product listings, detailed product pages, a user account system, and an intuitive shopping cart.
 
 ## Features
 - **Responsive Design**: Ensures optimal user experience across different devices.
